@@ -22,7 +22,7 @@ I turn raw data into decisions: data cleaning, analysis, and interactive Power B
 | [Harga Cabai Indonesia 2026](https://github.com/baghizash/harga-cabai-indonesia-2026) | Cabai rawit merah 2026 rata-rata Rp75.219/kg (+14,3%), puncak Rp105.450 pada 20 Okt 2026 |
 | [Pengangguran Indonesia 2026](https://github.com/baghizash/pengangguran-indonesia-2026) | TPT 4,65% (Mei 2026); pengangguran lulusan SMK tertinggi 7,68%; pekerja formal hanya 40,58% |
 | [ISPA Indonesia 2026](https://github.com/baghizash/ispa-indonesia-2026-analysis) | 14,09 juta laporan ISPA s.d. minggu 38/2026; Jakarta tertinggi 150,0 per 1.000 penduduk |
-| [Olist Brazilian E-Commerce](https://github.com/baghizash/olist-brazilian-ecommerce-analysis) | Revenue 13,22 juta BRL dari 96 ribu order; repeat purchase hanya 3,1% |
+| [Olist Brazilian E-Commerce](https://github.com/baghizash/olist-brazilian-ecommerce-analysis) | Revenue produk 13,22 juta BRL; repeat purchase hanya 3,1% |
 | [IBM HR Attrition — People Analytics](https://github.com/baghizash/ibm-hr-attrition-people-analytics) | Attrition 16,1%; karyawan lembur resign 30,5% vs 10,4% tanpa lembur; Sales Representative tertinggi 39,8% |
 | [Telco Customer Churn](https://github.com/baghizash/telco-customer-churn-analysis) | Churn 26,6% dari 7.032 pelanggan bersih; revenue at risk USD 139.130,85 per bulan |
 
