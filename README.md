@@ -15,6 +15,7 @@ I turn raw data into decisions: data cleaning, analysis, and interactive Power B
 
 | Project | Headline finding |
 |---|---|
+| [IPM Indonesia 2026 — Indeks Pembangunan Manusia](https://github.com/baghizash/ipm-indonesia-2026) | IPM 2025 naik ke 75,90 (kategori Tinggi), +3,09 poin sejak 2020; jurang antarprovinsi 30,14 poin (DKI Jakarta 85,05 vs Papua Pegunungan 54,91) |
 | [Kemiskinan & Ketimpangan Indonesia 2026](https://github.com/baghizash/kemiskinan-indonesia-2026) | Kemiskinan Mar 2026 turun ke 8,07% (22,93 juta jiwa), terendah 2019–2026; tertinggi Papua Tengah 30,41%, terendah Bali 3,44% |
 | [Harga Pangan Nasional 2026](https://github.com/baghizash/harga-pangan-nasional-2026) | Minyak goreng naik tertinggi, +6,8% ke Rp22.158/kg pada 2026; disparitas harga antarprovinsi 36–41% |
 | [Gempa Bumi Indonesia 2026](https://github.com/baghizash/gempa-bumi-indonesia-2026) | 9.600 gempa M≥4,5 pada 2015–2026; terbesar M7,8 di Ende, NTT; wilayah teraktif Halmahera & Maluku Utara (2.061 kejadian) |
@@ -39,3 +40,4 @@ I turn raw data into decisions: data cleaning, analysis, and interactive Power B
 ## Explore
 
 All projects are public here on GitHub. Start from the featured table above, or browse the repositories tab — each repo documents its data sources and how to reproduce the analysis end to end.
+
